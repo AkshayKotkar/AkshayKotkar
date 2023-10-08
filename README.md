@@ -9,7 +9,7 @@
 <body>
   <h2 align="left">Hi, I'm Akshay Kotkar 👋</h2>
 
-  <pre align="left">I'm a <b>Web Development | Data Scientist | Machine Learning</b> Engineer</pre>
+  <pre align="left">I'm a <b>Web Developer | Data Scientist | Machine Learning</b> Engineer</pre>
 
   <div>
     <a href="https://www.linkedin.com/in/akshaykotkar" target="_blank"><img
