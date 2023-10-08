@@ -25,7 +25,8 @@
   <h3 align="left">About me</h3>
 
   <pre align="left">
-    I'm recent graduate in Electronics and Telecommunication from Savitribai Phule Pune University with expertise in Web Development, Data Science, and Machine Learning.
+    I'm recent graduate in Electronics and Telecommunication from Savitribai Phule Pune University 
+    with expertise in Web Development, Data Science, and Machine Learning.
     Proficient in HTML, CSS, JavaScript, Bootstrap, ReactJS for creating user-friendly web applications.
     Skilled in Python and SQL for comprehensive Data Science and Machine Learning tasks.
     Experienced in advanced Machine Learning modeling, including Natural Language Processing (NLP) solutions.
