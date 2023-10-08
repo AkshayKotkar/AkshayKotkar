@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="[[https://th.bing.com/th/id/OIP.dJToM1TiZiJA0GYwzDHwjQHaHY?pid=ImgDet&rs=1](https://blog.linkbal.co.jp/wp/wp-content/uploads/2017/06/Python-logo-notext.svg-1024x1024.png)](https://gss-technology.com/wp-content/uploads/2021/07/roun6-768x768.png)" height="40" alt="python logo"  />
+  <img src="[[https://th.bing.com/th/id/OIP.dJToM1TiZiJA0GYwzDHwjQHaHY?pid=ImgDet&rs=1](https://blog.linkbal.co.jp/wp/wp-content/uploads/2017/06/Python-logo-notext.svg-1024x1024.png)](https://gss-technology.com/wp-content/uploads/2021/07/roun6-768x768.png)" height="60" alt="python logo"  />
 </div>
 
 ###
