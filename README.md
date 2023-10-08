@@ -36,9 +36,8 @@
   <h2 align="left">Languages and Tools</h2>
 
   <div align="left">
-
-    </h3>
-    <h3 style="text-align: center; display: flex; align-items: center;""> <pre>Web Developement Skill:-    </pre>
+    <h3 style="text-align: center; display: flex; align-items: center;> 
+    <pre> Web Developement Skill:-    </pre>
     <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
