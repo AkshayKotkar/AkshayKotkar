@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <h1 align="left">Hi, I'm Akshay Kotkar 👋</h1>
+  <h2 align="left">Hi, I'm Akshay Kotkar 👋</h2>
 
   <pre align="left">I'm a <b>Web Development | Data Scientist | Machine Learning</b> Engineer</pre>
 
