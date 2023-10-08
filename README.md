@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
 </head>
 
 <body>
@@ -36,7 +35,7 @@
   <h2 align="left">Languages and Tools</h2>
 
   <div align="left">
-  <h3 style="text-align: center; display: flex; align-items: center;>
+  <h3 style="text-align: center; display: flex; align-items: center;">
     <pre>Web Development Skill :-       </pre>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
     <img width="12" />
@@ -65,8 +64,8 @@
         src="https://library.kissclipart.com/20181123/oyq/kissclipart-sql-db-clipart-microsoft-azure-sql-database-d8fe86afd77ee124.jpg"
         height="40" alt="SQL  logo" />
       <img width="12" />
-
   </div>
+    
   <div>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykotkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
