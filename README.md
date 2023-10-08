@@ -29,7 +29,7 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.bE1Jbk4DRruFC4Fkx75dNAHaHa?pid=ImgDet&rs=1" height="40" alt="python logo"  />
+  <img src="[https://th.bing.com/th/id/OIP.bE1Jbk4DRruFC4Fkx75dNAHaHa?pid=ImgDet&rs=1](https://i.pinimg.com/originals/6f/d8/3f/6fd83f6c101f85bb417448302daedfb9.png)" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
