@@ -26,7 +26,7 @@
   <pre align="left">
     I'm recent graduate in Electronics and Telecommunication from Savitribai Phule Pune University 
     with expertise in Web Development, Data Science, and Machine Learning.
-    Proficient in HTML, CSS, JavaScript, Bootstrap, ReactJS for creating user-friendly web applications.
+    Proficient in HTML, CSS, JavaScript for creating user-friendly web applications.
     Skilled in Python and SQL for comprehensive Data Science and Machine Learning tasks.
     Experienced in advanced Machine Learning modeling, including Natural Language Processing (NLP) solutions.
     Utilizes Python libraries such as NumPy, Pandas, Seaborn, Scikit-Learn, StatsModels, and NLTK.
@@ -44,8 +44,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
       alt="javascript logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"
-      alt="react logo" />
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"
+      alt="react logo" /> -->
     <img width="12" />
     </h3>
 
