@@ -21,7 +21,7 @@
     <a href="https://github.com/AkshayKotkar?tab=repositories" ; target="_blank" ; style="text-decoration: none;">
       <div style=" height:35px; width:170px; background-color: grey; margin-left:300px; display: flex;">
         <img src="/portfolio-bag-svgrepo-com (2).png" alt="Portfolio"
-          style="height: 20px; width: 20px; margin: 7px 12px;">
+          style="height: 10px; width: 10px; margin: 7px 12px;">
         <p
           style="color: aliceblue; text-align: center; margin: 7.5px 2px; letter-spacing: 2px; font-weight: 700; font-size: medium;">
           PORTFOLIO</p>
