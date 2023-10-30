@@ -58,7 +58,7 @@
     <img width="12" />
 
 
-  <h3 style="text-align: center; display: flex; align-items: center;">
+   <h3 style="text-align: center; display: flex; align-items: center;">
       <pre>Data Science Skill :-       </pre>
     </h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
