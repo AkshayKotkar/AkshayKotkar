@@ -11,7 +11,7 @@
 
   <pre align="left">I'm a <b>Web Developer | Data Scientist | Machine Learning</b> Engineer</pre>
 
-  <div style="display: flex;">
+  <div style="display: flex; ">
     <a href="https://www.linkedin.com/in/akshaykotkar" target="_blank"><img
         src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
         height="35" alt="linkedin logo" /></a>
@@ -19,9 +19,9 @@
         src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
         height="35" alt="gmail logo" /></a>
     <a href="https://github.com/AkshayKotkar?tab=repositories" ; target="_blank" ; style="text-decoration: none;">
-      <div style=" height:35px; width:170px; background-color: grey; margin-left:300px; display: flex;">
+      <div style=" height:35px; width:170px; background-color: grey; display: flex;">
         <img src="/portfolio-bag-svgrepo-com (2).png" alt="Portfolio"
-          style="height: 10px; width: 10px; margin: 7px 12px;">
+          style="height: 20px; width: 20px; margin: 7px 12px;">
         <p
           style="color: aliceblue; text-align: center; margin: 7.5px 2px; letter-spacing: 2px; font-weight: 700; font-size: medium;">
           PORTFOLIO</p>
