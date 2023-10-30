@@ -18,15 +18,10 @@
     <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=akshaykotkar812@gmail.com&tf=1" target="_blank"><img
         src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
         height="35" alt="gmail logo" /></a>
-    <a href="https://github.com/AkshayKotkar?tab=repositories" ; target="_blank" ; style="text-decoration: none;">
-      <div style=" height:35px; width:170px; background-color: grey; display: flex;">
-        <img src="/portfolio-bag-svgrepo-com (2).png" alt="Portfolio"
-          style="height: 20px; width: 20px; margin: 7px 12px;">
-        <p
-          style="color: aliceblue; text-align: center; margin: 7.5px 2px; letter-spacing: 2px; font-weight: 700; font-size: medium;">
-          PORTFOLIO</p>
-      </div>
-  </div></a>
+    <a>
+      <img src="https://img.shields.io/badge/PORTFOLIO-grey?style=for-the-badge" alt="Portfolio" height="35px">
+    </a>
+  </div>
 
   <h3 align="left">About me</h3>
 
@@ -58,7 +53,7 @@
     <img width="12" />
 
 
-   <h3 style="text-align: center; display: flex; align-items: center;">
+  <h3 style="text-align: center; display: flex; align-items: center;">
       <pre>Data Science Skill :-       </pre>
     </h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
