@@ -9,7 +9,7 @@
 <body>
   <h2 align="left">Hi, I'm Akshay Kotkar 👋</h2>
 
-  <pre align="left">I'm a <b>Web Developer | Data Scientist | Machine Learning</b> Engineer</pre>
+  <pre align="left">I'm a <b>Data Analyst | Data Scientist | Machine Learning Engineer | Web Developer</b></pre>
 
   <div style="display: flex; ">
     <a href="https://www.linkedin.com/in/akshaykotkar" target="_blank"><img
@@ -27,7 +27,7 @@
 
   <pre align="left">
     I'm recent graduate in Electronics and Telecommunication from Savitribai Phule Pune University 
-    with expertise in Web Development, Data Science, and Machine Learning.
+    with expertise in Data Analyst, Data Science, Machine Learningand Web Development.
     Proficient in HTML, CSS, JavaScript for creating user-friendly web applications.
     Skilled in Python and SQL for comprehensive Data Science and Machine Learning tasks.
     Experienced in advanced Machine Learning modeling, including Natural Language Processing (NLP) solutions.
